@@ -1,0 +1,6 @@
+/home/user/RiderProjects/OS_Lab1/OS_Lab1/bin/Debug/OS_Lab1.exe
+/home/user/RiderProjects/OS_Lab1/OS_Lab1/bin/Debug/OS_Lab1.pdb
+/home/user/RiderProjects/OS_Lab1/OS_Lab1/obj/Debug/OS_Lab1.csproj.AssemblyReference.cache
+/home/user/RiderProjects/OS_Lab1/OS_Lab1/obj/Debug/OS_Lab1.csproj.CoreCompileInputs.cache
+/home/user/RiderProjects/OS_Lab1/OS_Lab1/obj/Debug/OS_Lab1.exe
+/home/user/RiderProjects/OS_Lab1/OS_Lab1/obj/Debug/OS_Lab1.pdb
